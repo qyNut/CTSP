@@ -1,4 +1,4 @@
-This is the implemetation of the algorithmn introduced in the CTSP Paper [https://ieeexplore.ieee.org/abstract/document/9743950]
+This is the implemetation of the algorithmn introduced in the [CTSP Paper](https://ieeexplore.ieee.org/abstract/document/9743950)
 
 # Start
 To Run the code, start from CAM.m or SimVessel.m
