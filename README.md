@@ -4,6 +4,8 @@ This is the implemetation of the algorithmn introduced in the [CTSP Paper](https
 To Run the code, start from CAM.m or SimVessel.m
 
 # Folder Structure
-"fdct" folder includes the curvelet transform/inverse transform introduced by E. J. Candès and D. L. Donoho, “Curvelets—A surprisingly effective nonadaptive representation for objects with edges” in Curve and Surface Fitting 1999
+"fdct" folder includes the curvelet transform/inverse transform introduced by E. J. Candès [fdct](https://epubs.siam.org/doi/abs/10.1137/05064182X)
+
 "recon" folder includes the iteration function used for recover the incomplete image
+
 "data" folder includes the incomplete/complete data from a simulated vessel and an in-vivo chicken embryo chorioallantoicmembrane (CAM)
